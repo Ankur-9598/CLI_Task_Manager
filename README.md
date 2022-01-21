@@ -2,11 +2,9 @@
 
 You are asked to build a command line program that lets you manage your tasks. Each task is associated with a priority, the priority is a number that denotes how important a task is, note that the value of the priority is inversed ( lower the value highest the priority).
 
-1. The incomplete version of the program can found in the file `solve_me.py`
+1. Priority can be any integer _greater than_ or _equal to_ 1. 1 being the highest priority
 
-2. Priority can be any integer _greater than_ or _equal to_ 1. 1 being the highest priority
-
-3. Two tasks cannot have the same priority, If a new task is added with an existing priority, the priority of the existing task will be increased by 1.
+2. Two tasks cannot have the same priority, If a new task is added with an existing priority, the priority of the existing task will be increased by 1.
 
 ## Usage
 
